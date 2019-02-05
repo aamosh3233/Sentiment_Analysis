@@ -1,0 +1,76 @@
+sentence,class
+how are you?,greeting
+How is your day?,greeting
+Good day.,greeting
+How it is going today?,greeting
+Hey,greeting
+Hey man,greeting
+Hi,greeting
+Hello,greeting
+How are you doing,greeting
+What's up,greeting
+What's new,greeting
+What's going on?,greeting
+How's everything?,greeting
+how are things?,greeting
+How's life,greeting
+how was your day?,greeting
+how's your day going?,greeting
+Good to see you,greeting
+Nice to see you,greeting
+Long time no see,greeting
+Good morning,greeting
+Good afternoon,greeting
+Good evening,greeting
+Nice to meet you,greeting
+Pleased to meet you,greeting
+How do you do?,greeting
+Yo!,greeting
+Are you okay?,greeting
+You alright?,greeting
+Alright mate?,greeting
+Whazzup?,greeting
+Sup?,greeting
+Howdy!,greeting
+G'day mate!,greeting
+Have a nice day.,goodbye
+see you later.,goodbye
+have a nice day,goodbye
+talk to you soon,goodbye
+Bye,goodbye
+Bye bye!,goodbye
+See you later,goodbye
+talk to you later,goodbye
+See you soon,goodbye
+I must be going,goodbye
+I have got to get going,goodbye
+I am off,goodbye
+Take it easy,goodbye
+Goodbye,goodbye
+Have a good day,goodbye
+I look forward to our next meeting,goodbye
+Take care,goodbye
+It was nice to see you again,goodbye
+It was nice seeing you,goodbye
+Good night,goodbye
+Later,goodbye
+Catch you later,goodbye
+Peace out,goodbye
+I am out of here,goodbye
+have a sweet dreams,goodbye
+I gotta jet,goodbye
+I gotta take off,goodbye
+I gotta hit the road,goodbye
+I gotta head out,goodbye
+make me a sandwich,order
+can you make a sandwich?,order
+having a sandwich today?,order
+what's for lunch?,order
+What's the menu for today,order
+Would you like cheese with that,order
+Would you like this to go,order
+Is that all you will be ordering,order
+Is that all for you today?,order
+Can I take you order?,order
+Are you ready to order?,order
+Can we have a bill,order
